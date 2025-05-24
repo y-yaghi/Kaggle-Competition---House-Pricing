@@ -9,4 +9,4 @@ Our business question would be:
 
   What are somethings that impact a homes price?
 
-![alt text]([file:///Users/yarayaghi/Downloads/Analysis-framework-of-affecting-factors-of-house-price.png](https://www.researchgate.net/profile/Na-Li-269/publication/359519947/figure/fig1/AS:1138867524644866@1648538585283/Analysis-framework-of-affecting-factors-of-house-price.png))
+![alt text](https://www.researchgate.net/profile/Na-Li-269/publication/359519947/figure/fig1/AS:1138867524644866@1648538585283/Analysis-framework-of-affecting-factors-of-house-price.png)
