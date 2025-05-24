@@ -5,4 +5,8 @@ Okay given the goal:
   
 Our business question would be:
 
-  ***"How can we accurately predict the sale price of a house based on its characteristics to support smarter property valuation and investment decisions?"***
+  **"How can we accurately predict the sale price of a house based on its characteristics to support smarter property valuation and investment decisions?"**
+
+  What are somethings that impact a homes price?
+
+![alt text](file:///Users/yarayaghi/Downloads/Analysis-framework-of-affecting-factors-of-house-price.png)
